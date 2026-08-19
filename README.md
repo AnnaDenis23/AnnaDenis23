@@ -4,45 +4,71 @@
 
 ###
 
-<h1 align="center">Привет Меня зовут Анастасия!</h1>
+<h1 align="center">✨ Привет, я Анастасия! ✨</h1>
 
 ###
 
 <div align="center">
-  <a href="https://t.me/+8SbNApTzLFJjMjVi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="https://t.me/Anastasiyadenis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>
+  <a href="https://github.com/AnnaDenis23" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
+  <a href="mailto:dreminanasta3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnnaDenis23.AnnaDenis23&" />
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻 Обо мне</h3>
 
 ###
 
-<p align="left">Я учусь в университете СГУГиТ на специальности "Информационные системы и технологии" и параллельно в Школе 21 по направлению "Data Science". Также изучаю маркетинг и продукт менеджмент.</p>
-
-###
-<h3 align="left">📕 Мои статьи</h3>
-
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
-
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+<p align="left">
+  Я учусь в университете <strong>СГУГиТ</strong> на специальности <strong>"Информационные системы и технологии"</strong> и параллельно в <strong>Школе 21</strong> по направлению <strong>"Data Science"</strong>. 
+  <br /><br />
+  Также активно изучаю <strong>маркетинговую аналитику</strong> и <strong>основы продукт-менеджмента</strong>, чтобы стать не просто аналитиком, а специалистом, понимающим бизнес и продукт целиком.
+  <br /><br />
+  🏗️ Имею опыт стажировки в строительной компании <strong>BI GROUP</strong>, где работала с SQL, Python и Power BI.
+  <br />
+  📊 Моя суперсила — превращать сырые данные в понятные инсайты и дашборды.
 </p>
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">📕 Мои статьи</h3>
+
+###
+
+<ul>
+  <li><a href="https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29" target="_blank">📱 Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика</a></li>
+  <li><a href="https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15" target="_blank">🚫 Пишем Telegram-бота для фильтрации нецензурной лексики в чате</a></li>
+</ul>
+
+###
+
+<h3 align="left">📄 Мои научные публикации</h3>
+
+###
+
+<ul>
+  <li><strong>LXXIV Региональная студенческая научная конференция (2026)</strong> — <em>Практическая реализация интерполяции функции методами Лагранжа и Ньютона в Excel</em> — С. 216</li>
+  <li><strong>LXXIV Региональная студенческая научная конференция (2026)</strong> — <em>Разработка модульного корпуса для мобильного робота</em> — С. 216</li>
+  <li><strong>LXXIII Региональная студенческая научная конференция (2025)</strong> — <em>The Opportunities of Artificial Intelligence in 2025</em> — С. 235</li>
+  <li><strong>Сборник «Инженерная графика и трехмерное моделирование» (2026)</strong> — <em>Моделирование корпуса робота в Autodesk Inventor для автоматизации задач</em></li>
+</ul>
+
+###
+
+<h3 align="left">🛠 Мой стек технологий</h3>
 
 ###
 
@@ -63,20 +89,16 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />
   
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
+  
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
   
   <!-- Power BI -->
@@ -87,25 +109,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
   <img width="12" />
   
-  <!-- Matplotlib (иконка неофициальная, но можно использовать) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo" />
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  
+  <!-- Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="excel logo" />
 </div>
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥 Моя статистика</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AnnaDenis23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnnaDenis23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnnaDenis23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 ###
+
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/AnnaDenis23/AnnaDenis23/output/github-snake.svg" alt="snake" />
+</p>
+
+###
+
+<div align="center">
+  <sub>✨ Data Analyst | ML enthusiast | Marketing & Product learner ✨</sub>
+</div>
