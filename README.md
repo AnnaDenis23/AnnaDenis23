@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Anastasiya
+### Hi there, my name is Anastasiya
 #### I am a Data Analytic
 Data Analyst with a strong focus on Machine Learning, Marketing Analytics, and Product Management fundamentals, passionate about combining data science with business strategy to drive product growth
 
